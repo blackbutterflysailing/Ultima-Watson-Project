@@ -1,0 +1,3 @@
+[submodule "cordova-plugin-watson-speech"]
+	path = cordova-plugin-watson-speech
+	url = https://github.com/NickPowers43/cordova-plugin-watson-speech.git
