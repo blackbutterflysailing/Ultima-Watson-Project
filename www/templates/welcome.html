@@ -1,0 +1,16 @@
+<!--
+  This template loads for the 'tab.friend-detail' state (app.js)
+  'friend' is a $scope variable created in the FriendsCtrl controller (controllers.js)
+  The FriendsCtrl pulls data from the Friends service (service.js)
+  The Friends service returns an array of friend data
+-->
+<ion-view hide-nav-bar="true" view-title="{{title}}">
+  <ion-content class="padding" has-header="false">
+    <center>
+      <h1>Welcome</h1>
+      <a class="facebook-sign-in button button-positive" ng-click="facebookLogin()">Login with Facebook</a>
+      <a class="ng-hide button button-positive" ng-hide="True" ng-click="continueClick()">Continue</a>
+    </center>
+    <div data-role="main" class="ui-content" id="listTable"></div>
+  </ion-content>
+</ion-view>

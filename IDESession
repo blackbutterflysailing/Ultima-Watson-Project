@@ -1,0 +1,17 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="0" />
+        <subView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="992" startPos="868" endPos="868" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\UltimaMobile\www\index.html" backupFilePath="" originalFileLastModifTimestamp="1458087511" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2440" startPos="461" endPos="461" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\UltimaMobile\www\templates\tab-dash.html" backupFilePath="" originalFileLastModifTimestamp="1458087251" />
+            <File firstVisibleLine="30" xOffset="0" scrollWidth="1264" startPos="1326" endPos="1326" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\myApp\www\dashboard-caution.html" backupFilePath="" originalFileLastModifTimestamp="1458086059" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="856" startPos="0" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\myApp\www\dashboard-emergency.html" backupFilePath="" originalFileLastModifTimestamp="1457361262" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="544" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\UltimaMobile\www\css\style.css" backupFilePath="" originalFileLastModifTimestamp="1457536969" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="544" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\myApp\www\css\style.css" backupFilePath="" originalFileLastModifTimestamp="1457361262" />
+            <File firstVisibleLine="19" xOffset="0" scrollWidth="816" startPos="1569" endPos="1569" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\UltimaMobile\www\js\app.js" backupFilePath="" originalFileLastModifTimestamp="1457228482" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1160" startPos="104" endPos="104" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\UltimaMobile\www\js\controllers.js" backupFilePath="" originalFileLastModifTimestamp="1457541899" />
+            <File firstVisibleLine="27" xOffset="0" scrollWidth="448" startPos="1090" endPos="1090" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\UltimaMobile\www\js\services.js" backupFilePath="" originalFileLastModifTimestamp="1458086241" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1208" startPos="60" endPos="60" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Nick\Desktop\Ultima\UltimaMobile\www\templates\tab-chats.html" backupFilePath="" originalFileLastModifTimestamp="1457193286" />
+        </subView>
+    </Session>
+</NotepadPlus>

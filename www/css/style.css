@@ -1,0 +1,32 @@
+/* Add your own CSS if you like */
+
+.progress-bar{
+  background: #EEEEEE;
+  border-radius: 14px;
+  /* Rectangle 32: */
+  background-image: linear-gradient(-90deg, #B1FC33 0%, #F13166 100%);
+  border-radius: 14px;
+  /* 50%: */
+  font-family: SFUIText-Regular;
+  font-size: 15px;
+  color: #808080;
+  line-height: 18px;
+}
+.dash-background{
+	/* Rectangle 4: */
+  opacity: 0.3;
+  background: #000000;
+
+
+  /* Dashboard: */
+  font-family: HelveticaNeue;
+  font-size: 17px;
+  color: #FFFFFF;
+  letter-spacing: 0.05px;
+  line-height: 18.5px;
+}
+
+.button .button-assertive button {
+  /*border-radius: 8px;*/
+  background-color: #ff2d55;
+}

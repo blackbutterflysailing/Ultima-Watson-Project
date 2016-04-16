@@ -1,0 +1,21 @@
+<ion-view view-title="Plans">
+  <ion-content>
+    
+	
+    <ion-list>
+      <ion-item class="item-remove-animate item-icon-right" ng-repeat="plan in plans" type="item-text-wrap" href="#/tab/plans/{{plan.id}}">
+        
+        <p>{{plan.name}}</p>
+        <i class="icon ion-ios-gear-outline icon-accessory"></i>
+
+        <ion-option-button class="button-assertive" ng-click="remove(chat)">
+          Delete
+        </ion-option-button>
+      </ion-item>
+      <ion-item class="item-icon-right" type="item-text-wrap" href="#/tab/plans/create}">
+        <p>New...</p>
+        <i class="icon ion-ios-plus-outline icon-accessory"></i>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

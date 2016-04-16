@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-inappbrowser",
+  "version": "1.3.0",
+  "_release": "1.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.3.0",
+    "commit": "5cbd28edb04f7634043de7de53f51676f0911db4"
+  },
+  "_source": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git",
+  "_target": "^1.3.0",
+  "_originalSource": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git",
+  "_direct": true
+}
